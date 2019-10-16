@@ -1,0 +1,41 @@
+//Element ui 全局样式修改
+* {
+  margin: 0;
+  padding: 0;
+}
+
+//el-form 增加class noround 用于紧凑型
+.el-form.noround {
+  label {
+    padding 0px
+  }
+  input, button{
+    border-radius: 0px;
+  }
+}
+
+.el-input.shot, .el-select.shot{
+  input{
+    width: 8rem;
+  }
+}
+
+.el-button.noround{
+    border-radius: 0px;
+}
+
+.noround .el-form-item{
+  margin-bottom: .2rem
+}
+
+//修改不可用的input为一般的Span
+.el-form .el-input.is-disabled input{
+  border: 1px solid #0000;
+  background: none;
+  cursor: default;
+}
+.el-form .el-textarea.is-disabled textarea{
+  border: 1px solid #0000;
+  background: none;
+  cursor: default;
+}
