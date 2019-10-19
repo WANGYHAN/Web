@@ -1,0 +1,46 @@
+[{
+    "name": "主食类",
+    "img": "1.jpg",
+    "id": 1,
+    "type": "food"
+}, {
+    "name": "肉蛋类",
+    "img": "2.jpg",
+    "id": 2,
+    "type": "meat"
+}, {
+    "name": "大豆制品",
+    "img": "3.jpg",
+    "id": 3,
+    "type": "bean"
+}, {
+    "name": "蔬菜类",
+    "img": "4.jpg",
+    "id": 4,
+    "type": "vegetable"
+}, {
+    "name": "水果类",
+    "img": "5.jpg",
+    "id": 5,
+    "type": "fruits"
+}, {
+    "name": "奶类",
+    "img": "6.jpg",
+    "id": 6,
+    "type": "milk"
+}, {
+    "name": "油脂类",
+    "img": "7.jpg",
+    "id": 7,
+    "type": "grease"
+}, {
+    "name": "坚果类",
+    "img": "8.jpg",
+    "id": 8,
+    "type": "nut"
+}, {
+    "name": "调味品",
+    "img": "9.jpg",
+    "id": 9,
+    "type": "flavor"
+}]

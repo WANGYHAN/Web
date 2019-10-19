@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "../../mock/index";
-import axios from "axios";
-import ErrorWithStack from "jest-util/build/ErrorWithStack";
+// import axios from "axios";
+// import ErrorWithStack from "jest-util/build/ErrorWithStack";
 class Login extends Component {
   state = {
     name: "",

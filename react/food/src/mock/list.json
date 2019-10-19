@@ -1,0 +1,235 @@
+[{
+    "id": 1,
+    "flag": 3,
+    "name": "馒头",
+    "check": false,
+    "img": "1.png",
+    "weight": 100, 
+    "height": 69,
+    "type": "food"
+}, {
+    "id": 2,
+    "flag": 3,
+    "name": "烧饼",
+    "check": false,
+    "img": "2.png",
+    "weight": 110,
+    "height": 12,
+    "type": "food"
+}, {
+    "id": 3,
+    "flag": 3,
+    "name": "饺子",
+    "check": false,
+    "img": "3.png",
+    "weight": 80,
+    "height": 100,
+    "type": "food"
+}, {
+    "id": 4,
+    "flag": 3,
+    "name": "面条",
+    "check": false,
+    "img": "4.png",
+    "weight": 110,
+    "height": 92,
+    "type": "food"
+}, {
+    "id": 5,
+    "flag": 3,
+    "name": "猪肉",
+    "check": false,
+    "img": "5.png",
+    "weight": 110,
+    "height": 92,
+    "type": "meat"
+}, {
+    "id": 6,
+    "flag": 3,
+    "name": "鸡蛋",
+    "check": false,
+    "img": "6.png",
+    "weight": 110,
+    "height": 92,
+    "type": "meat"
+}, {
+    "id": 7,
+    "flag": 3,
+    "name": "羊腿",
+    "check": false,
+    "img": "7.png",
+    "weight": 110,
+    "height": 92,
+    "type": "meat"
+}, {
+    "id": 8,
+    "flag": 3,
+    "name": "鸭蛋",
+    "check": false,
+    "img": "8.png",
+    "weight": 110,
+    "height": 92,
+    "type": "meat"
+}, {
+    "id": 9,
+    "flag": 3,
+    "name": "豆腐",
+    "check": false,
+    "img": "9.png",
+    "weight": 110,
+    "height": 92,
+    "type": "bean"
+}, {
+    "id": 10,
+    "flag": 3,
+    "name": "豆干",
+    "check": false,
+    "img": "10.png",
+    "weight": 110,
+    "height": 92,
+    "type": "bean"
+}, {
+    "id": 11,
+    "flag": 3,
+    "name": "菠菜",
+    "check": false,
+    "img": "11.png",
+    "weight": 110,
+    "height": 92,
+    "type": "vegetable"
+}, {
+    "id": 12,
+    "flag": 3,
+    "name": "香菜",
+    "check": false,
+    "img": "12.png",
+    "weight": 110,
+    "height": 92,
+    "type": "vegetable"
+}, {
+    "id": 13,
+    "flag": 3,
+    "name": "西红柿",
+    "check": false,
+    "img": "13.png",
+    "weight": 110,
+    "height": 92,
+    "type": "vegetable"
+}, {
+    "id": 14,
+    "flag": 3,
+    "name": "土豆",
+    "check": false,
+    "img": "14.png",
+    "weight": 110,
+    "height": 92,
+    "type": "vegetable"
+}, {
+    "id": 15,
+    "flag": 3,
+    "name": "西瓜",
+    "check": false,
+    "img": "15.png",
+    "weight": 110,
+    "height": 92,
+    "type": "fruits"
+}, {
+    "id": 16,
+    "flag": 3,
+    "name": "木瓜",
+    "check": false,
+    "img": "16.png",
+    "weight": 110,
+    "height": 92,
+    "type": "fruits"
+}, {
+    "id": 17,
+    "flag": 3,
+    "name": "香蕉",
+    "check": false,
+    "img": "17.png",
+    "weight": 110,
+    "height": 92,
+    "type": "fruits"
+}, {
+    "id": 18,
+    "flag": 3,
+    "name": "苹果",
+    "check": false,
+    "img": "18.png",
+    "weight": 110,
+    "height": 92,
+    "type": "fruits"
+}, {
+    "id": 19,
+    "flag": 3,
+    "name": "酸奶",
+    "check": false,
+    "img": "19.png",
+    "weight": 110,
+    "height": 92,
+    "type": "milk"
+}, {
+    "id": 20,
+    "flag": 3,
+    "name": "牛奶",
+    "check": false,
+    "img": "20.png",
+    "weight": 110,
+    "height": 92,
+    "type": "milk"
+}, {
+    "id": 21,
+    "flag": 3,
+    "name": "芝士",
+    "check": false,
+    "img": "21.png",
+    "weight": 110,
+    "height": 92,
+    "type": "grease"
+}, {
+    "id": 22,
+    "flag": 3,
+    "name": "奶酪",
+    "check": false,
+    "img": "22.png",
+    "weight": 110,
+    "height": 92,
+    "type": "grease"
+}, {
+    "id": 23,
+    "flag": 3,
+    "name": "核桃",
+    "check": false,
+    "img": "23.png",
+    "weight": 110,
+    "height": 92,
+    "type": "nut"
+}, {
+    "id": 24,
+    "flag": 3,
+    "name": "巴旦木",
+    "check": false,
+    "img": "24.png",
+    "weight": 110,
+    "height": 92,
+    "type": "nut"
+}, {
+    "id": 25,
+    "flag": 3,
+    "name": "碧根果",
+    "check": false,
+    "img": "25.png",
+    "weight": 110,
+    "height": 92,
+    "type": "nut"
+}, {
+    "id": 26,
+    "flag": 3,
+    "name": "盐",
+    "check": false,
+    "img": "26.png",
+    "weight": 110,
+    "height": 92,
+    "type": "flavor"
+}]
