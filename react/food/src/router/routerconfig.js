@@ -40,7 +40,7 @@ const routes = [{
             path: "/index/home",
             component: Home
         }, {
-            path: "/index/rank",
+            path: "/index/rank/:id",
             component: Rank
         }, {
             path: "/index/mine",

@@ -1,11 +1,13 @@
 import React, { Component } from "react";
 import axios from "axios";
 import "../../../mock/index";
+import { Reference } from "react-popper";
 export default class Floor extends Component {
   state = {
     list: {}
   };
   render() {
+    
     let { list } = this.state;
     return (
       <div>
@@ -36,6 +38,7 @@ export default class Floor extends Component {
   async componentDidMount() {
     let res = await axios.get("/api/city");
     this.setState({ list: res.data });
+    console.log(res.data)
   }
   Scroll(key) {
     document.documentElement.scrollTop =
